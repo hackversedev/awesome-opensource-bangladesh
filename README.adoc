@@ -1,0 +1,130 @@
+= Awesome Open Source Bangladesh
+
+List of Open Source projects and contributors of Bangladesh.
+
+
+=== How to add a project?
+
+* Fork the repository.
+* Add the project in alphabetical order.
+* Create pull request.
+
+{nbsp} +
+
+
+==== Alphabetical Order: A - C
+|===
+|Project Name |Description |Technologies | Web presence
+
+|--
+|--
+|--
+|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+
+|===
+
+==== Alphabetical Order: D - F
+|===
+|Project Name |Description |Technologies | Web presence
+
+|--
+|--
+|--
+|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+
+|===
+
+
+==== Alphabetical Order: G - I
+|===
+|Project Name |Description |Technologies | Web presence
+
+|--
+|--
+|--
+|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+
+|===
+
+==== Alphabetical Order: J - L
+|===
+|Project Name |Description |Technologies | Web presence
+
+|--
+|--
+|--
+|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+
+|===
+
+==== Alphabetical Order: M - O
+|===
+|Project Name |Description |Technologies | Web presence
+
+|MERNCommerce
+|Headless backend for your eCommerce app
+|Express.js, React.js, Next.js, TypeScript, MongoDB
+|https://github.com/shakilcn/mern-commerce[shakilcn/mern-commerce]
+
+|Mockingbird
+|Desktop app for creating mock APIs
+|Electron.js, React.js, TypeScript, TailwindCSS
+|https://github.com/shakilcn/mockingbird[shakilcn/mockingbird]
+
+|NextLMS
+|Open source learning platform
+|ReactJS, NextJS, MongoDB, Ant Design, TailwindCSS
+|https://github.com/shakilcn/NextLMS[shakilcn/NextLMS]
+
+|===
+
+
+==== Alphabetical Order: P - R
+|===
+|Project Name |Description |Technologies | Web presence
+
+
+|--
+|--
+|--
+|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+
+|===
+
+==== Alphabetical Order: S - U
+|===
+|Project Name |Description |Technologies | Web presence
+
+|Shaplachart
+|Javascript chart library for data visualization
+|D3.js, TypeScript, Rollup
+|https://github.com/shakilcn/shaplachart[shakilcn/shaplachart]
+
+|Superbar
+|🚀 Command bar for the web (chrome extension)
+|React.js, Redux, Ant Design, Webpack
+|https://github.com/shakilcn/superbar[shakilcn/superbar]
+
+
+|===
+
+
+==== Alphabetical Order: V - Z
+|===
+|Project Name |Description |Technologies | Web presence
+
+|--
+|--
+|--
+|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+
+
+|===
+
+
+{nbsp} +
+{nbsp} +
+
+
+=== Contribute
+Contributions are always welcome! Create a pull request.
