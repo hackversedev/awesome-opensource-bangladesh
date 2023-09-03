@@ -1,6 +1,6 @@
 # Star Count
 
-[![GitHub stars](https://img.shields.io/github/stars/hackversedev/awesome-opensource-bangladesh.svg?style=social&label=Stars)](https://github.com/hackversedev/awesome-opensource-bangladesh)
+image:https://img.shields.io/github/stars/hackversedev/awesome-opensource-bangladesh.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/hackversedev/awesome-opensource-bangladesh”]
 
 
 = Awesome Open Source Bangladesh
