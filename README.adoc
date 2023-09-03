@@ -1,3 +1,7 @@
+# Star Count
+[![GitHub stars](https://img.shields.io/github/stars/hackversedev/awesome-opensource-bangladesh.svg?style=social&label=Stars)](https://github.com/hackversedev/awesome-opensource-bangladesh)
+
+
 = Awesome Open Source Bangladesh
 
 List of Open Source projects and contributors of Bangladesh.
@@ -121,7 +125,7 @@ List of Open Source projects and contributors of Bangladesh.
 
 |===
 
-[![GitHub stars](https://img.shields.io/github/stars/hackversedev/awesome-opensource-bangladesh.svg?style=social&label=Stars)](https://github.com/hackversedev/awesome-opensource-bangladesh)
+
 
 
 {nbsp} +
