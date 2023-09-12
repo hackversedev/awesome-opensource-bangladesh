@@ -37,6 +37,20 @@ List of Open Source projects and contributors of Bangladesh.
 |--
 |https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
 
+|Devsonket
+|Developer Cheatsheet
+|Javascript,css
+|https://github.com/devsonket/devsonket.github.io
+|image:https://img.shields.io/github/stars/EliusHHimel/Slash.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/EliusHHimel/Slash”]
+
+
+|Findex
+|Findex is a highly customizable application finder written in Rust and uses Gtk3.
+|Rust,shell,css
+|https://github.com/mdgaziur/findex[mdgaziur/findex]
+|image:https://img.shields.io/github/stars/EliusHHimel/Slash.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/EliusHHimel/Slash”]
+
+
 |===
 
 
@@ -84,6 +98,22 @@ List of Open Source projects and contributors of Bangladesh.
 |https://github.com/shakilcn/NextLMS[shakilcn/NextLMS]
 |image:https://img.shields.io/github/stars/shakilcn/NextLMS.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/NextLMS”]
 
+
+
+|Ongkon
+|Web based paint app
+|Javascript, html, css
+|https://github.com/uthsobcb/ongkon[uthsobcb/ongkon]
+|image:https://img.shields.io/github/stars/uthsobcb/ongkon.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/uthsobcb/ongkon”]
+
+|Open Bangla Keyboard
+|An OpenSource, Unicode compliant Bengali Input Method
+|C++
+|https://github.com/OpenBangla/OpenBangla-Keyboard[OpenBangla/OpenBangla-Keyboard]
+|image:https://img.shields.io/github/stars/OpenBangla/OpenBangla-Keyboard.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/OpenBangla/OpenBangla-Keyboard”]
+
+
+
 |====
 
 
@@ -114,6 +144,19 @@ List of Open Source projects and contributors of Bangladesh.
 |React.js, Redux, Ant Design, Webpack
 |https://github.com/shakilcn/superbar[shakilcn/superbar]
 |image:https://img.shields.io/github/stars/shakilcn/superbar.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/superbar”]
+
+|Slash
+|Discord bot for engaging community (discord bot)
+|Javascript
+|https://github.com/EliusHHimel/Slash[EliusHHimel/Slash]
+|image:https://img.shields.io/github/stars/EliusHHimel/Slash.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/EliusHHimel/Slash”]
+
+
+| Sysfex
+| Another system information fetching tool written in C++ [CLI tool]
+|C++
+|https://github.com/mehedirm6244/sysfex[mehedirm6244/sysfex]
+||image:https://img.shields.io/github/stars/mehedirm6244/sysfex.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/mehedirm6244/sysfex”]
 
 
 |===
