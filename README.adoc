@@ -41,14 +41,14 @@ List of Open Source projects and contributors of Bangladesh.
 |Developer Cheatsheet
 |Javascript,css
 |https://github.com/devsonket/devsonket.github.io
-|image:https://img.shields.io/github/stars/EliusHHimel/Slash.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/EliusHHimel/Slash”]
+|image:https://img.shields.io/github/stars/devsonket/devsonket.github.io.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/devsonket/devsonket.github.io”]
 
 
 |Findex
 |Findex is a highly customizable application finder written in Rust and uses Gtk3.
 |Rust,shell,css
 |https://github.com/mdgaziur/findex[mdgaziur/findex]
-|image:https://img.shields.io/github/stars/EliusHHimel/Slash.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/EliusHHimel/Slash”]
+|image:https://img.shields.io/github/stars/mdgaziur/findex.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/mdgaziur/findex”]
 
 
 |===
