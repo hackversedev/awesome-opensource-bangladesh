@@ -1,3 +1,8 @@
+# Star Count
+
+image:https://img.shields.io/github/stars/hackversedev/awesome-opensource-bangladesh.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/hackversedev/awesome-opensource-bangladesh”]
+
+
 = Awesome Open Source Bangladesh
 
 List of Open Source projects and contributors of Bangladesh.
@@ -58,30 +63,33 @@ List of Open Source projects and contributors of Bangladesh.
 |===
 
 ==== Alphabetical Order: M - O
-|===
-|Project Name |Description |Technologies | Web presence
+|====
+|Project Name |Description |Technologies | Web presence | Star count
 
 |MERNCommerce
 |Headless backend for your eCommerce app
 |Express.js, React.js, Next.js, TypeScript, MongoDB
 |https://github.com/shakilcn/mern-commerce[shakilcn/mern-commerce]
+|image:https://img.shields.io/github/stars/shakilcn/mern-commerce.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/mern-commerce”]
 
 |Mockingbird
 |Desktop app for creating mock APIs
 |Electron.js, React.js, TypeScript, TailwindCSS
 |https://github.com/shakilcn/mockingbird[shakilcn/mockingbird]
+|image:https://img.shields.io/github/stars/shakilcn/mockingbird.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/mockingbird”]
 
 |NextLMS
 |Open source learning platform
 |ReactJS, NextJS, MongoDB, Ant Design, TailwindCSS
 |https://github.com/shakilcn/NextLMS[shakilcn/NextLMS]
+|image:https://img.shields.io/github/stars/shakilcn/NextLMS.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/NextLMS”]
 
-|===
+|====
 
 
 ==== Alphabetical Order: P - R
 |===
-|Project Name |Description |Technologies | Web presence
+|Project Name |Description |Technologies | Web presence | Star count
 
 
 |--
@@ -93,17 +101,19 @@ List of Open Source projects and contributors of Bangladesh.
 
 ==== Alphabetical Order: S - U
 |===
-|Project Name |Description |Technologies | Web presence
+|Project Name |Description |Technologies | Web presence | Star count
 
 |Shaplachart
 |Javascript chart library for data visualization
 |D3.js, TypeScript, Rollup
 |https://github.com/shakilcn/shaplachart[shakilcn/shaplachart]
+|image:https://img.shields.io/github/stars/shakilcn/shaplachart.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/shaplachart”]
 
 |Superbar
 |🚀 Command bar for the web (chrome extension)
 |React.js, Redux, Ant Design, Webpack
 |https://github.com/shakilcn/superbar[shakilcn/superbar]
+|image:https://img.shields.io/github/stars/shakilcn/superbar.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/superbar”]
 
 
 |===
@@ -120,6 +130,8 @@ List of Open Source projects and contributors of Bangladesh.
 
 
 |===
+
+
 
 
 {nbsp} +
