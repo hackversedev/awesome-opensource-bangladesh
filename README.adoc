@@ -17,9 +17,9 @@ List of Open Source projects and contributors of Bangladesh.
 {nbsp} +
 
 
-==== Alphabetical Order: A - C
+==== Alphabetical Order: A - C 
 |===
-|Project Name |Description |Technologies | Web presence
+|Project Name |Description |Technologies | Web presence | Star count
 
 |--
 |--
@@ -30,7 +30,7 @@ List of Open Source projects and contributors of Bangladesh.
 
 ==== Alphabetical Order: D - F
 |===
-|Project Name |Description |Technologies | Web presence
+|Project Name |Description |Technologies | Web presence | Star count
 
 |--
 |--
@@ -56,7 +56,7 @@ List of Open Source projects and contributors of Bangladesh.
 
 ==== Alphabetical Order: G - I
 |===
-|Project Name |Description |Technologies | Web presence
+|Project Name |Description |Technologies | Web presence | Star count
 
 |--
 |--
@@ -67,7 +67,7 @@ List of Open Source projects and contributors of Bangladesh.
 
 ==== Alphabetical Order: J - L
 |===
-|Project Name |Description |Technologies | Web presence
+|Project Name |Description |Technologies | Web presence | Star count
 
 |--
 |--
@@ -164,7 +164,7 @@ List of Open Source projects and contributors of Bangladesh.
 
 ==== Alphabetical Order: V - Z
 |===
-|Project Name |Description |Technologies | Web presence
+|Project Name |Description |Technologies | Web presence | Star count
 
 |--
 |--
