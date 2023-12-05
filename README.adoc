@@ -21,10 +21,30 @@ List of Open Source projects and contributors of Bangladesh.
 |===
 |Project Name |Description |Technologies | Web presence | Star count
 
-|--
-|--
-|--
-|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+|Archcraft
+|Yet another minimal Linux distribution,
+based on Arch Linux.
+|Linux, Debian, Ubuntu
+|https://github.com/archcraft-os/archcraft[archcraft-os/archcraft]
+|image:https://img.shields.io/github/stars/archcraft-os/archcraft.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/archcraft-os/archcraft”]
+
+|Bangla Programming Resources
+|Bangla tutorial, reference and resource list on programming topics
+|Linux, Debian, Ubuntu
+|https://github.com/me-shaon/bangla-programming-resources[me-shaon/bangla-programming-resources]
+|image:https://img.shields.io/github/stars/me-shaon/bangla-programming-resources.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/me-shaon/bangla-programming-resources”]
+
+|BD Startups
+|List of startups in Bangladesh 🇧🇩
+|Markdown
+|https://github.com/The-Penguins-Club/bd-startups[The-Penguins-Club/bd-startups]
+|image:https://img.shields.io/github/stars/The-Penguins-Club/bd-startups.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/The-Penguins-Club/bd-startups”]
+
+|Campus Compass
+|Research your Dream University With Campus Compass
+|PHP, JavaScript, CSS
+|https://github.com/anikakash/CampusCompass[anikakash/CampusCompass]
+|image:https://img.shields.io/github/stars/anikakash/CampusCompass.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/anikakash/CampusCompass”]
 
 |===
 
@@ -32,15 +52,11 @@ List of Open Source projects and contributors of Bangladesh.
 |===
 |Project Name |Description |Technologies | Web presence | Star count
 
-|--
-|--
-|--
-|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
 
 |Devsonket
 |Developer Cheatsheet
 |Javascript,css
-|https://github.com/devsonket/devsonket.github.io
+|https://github.com/devsonket/devsonket.github.io[devsonket/devsonket.github.io]
 |image:https://img.shields.io/github/stars/devsonket/devsonket.github.io.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/devsonket/devsonket.github.io”]
 
 
@@ -58,10 +74,17 @@ List of Open Source projects and contributors of Bangladesh.
 |===
 |Project Name |Description |Technologies | Web presence | Star count
 
-|--
-|--
-|--
-|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+|Go HTTP
+|HTTP client for Go
+|Go
+|https://github.com/nahid/gohttp[nahid/gohttp]
+|image:https://img.shields.io/github/stars/nahid/gohttp.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/nahid/gohttp”]
+
+|International Tech Jobs
+|Looking for an international tech job? Here is the place to look
+|Markdown
+|https://github.com/MBSTUPC/international-tech-jobs[MBSTUPC/international-tech-jobs]
+|image:https://img.shields.io/github/stars/MBSTUPC/international-tech-jobs.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/MBSTUPC/international-tech-jobs”]
 
 |===
 
@@ -69,10 +92,23 @@ List of Open Source projects and contributors of Bangladesh.
 |===
 |Project Name |Description |Technologies | Web presence | Star count
 
-|--
-|--
-|--
-|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+|JSONQ
+|A PHP query builder for JSON
+|PHP
+|https://github.com/nahid/jsonq[nahid/jsonq]
+|image:https://img.shields.io/github/stars/nahid/jsonq.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/nahid/jsonq”]
+
+|Keep React
+|Keep React is an open-source component library built on Tailwind CSS and React.js
+|React.js, TypeScript, TailwindCSS
+|https://github.com/StaticMania/keep-react[StaticMania/keep-react]
+|image:https://img.shields.io/github/stars/StaticMania/keep-react.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/StaticMania/keep-react”]
+
+|Loop
+|React Native business card app
+|React Native, TypeScript, TailwindCSS, iOS, Android
+|https://github.com/appcubedev/loop[appcubedev/loop]
+|image:https://img.shields.io/github/stars/appcubedev/loop.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/appcubedev/loop”]
 
 |===
 
@@ -83,20 +119,26 @@ List of Open Source projects and contributors of Bangladesh.
 |MERNCommerce
 |Headless backend for your eCommerce app
 |Express.js, React.js, Next.js, TypeScript, MongoDB
-|https://github.com/shakilcn/mern-commerce[shakilcn/mern-commerce]
-|image:https://img.shields.io/github/stars/shakilcn/mern-commerce.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/mern-commerce”]
+|https://github.com/shakilcz/mern-commerce[shakilcz/mern-commerce]
+|image:https://img.shields.io/github/stars/shakilcz/mern-commerce.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcz/mern-commerce”]
 
 |Mockingbird
 |Desktop app for creating mock APIs
 |Electron.js, React.js, TypeScript, TailwindCSS
-|https://github.com/shakilcn/mockingbird[shakilcn/mockingbird]
-|image:https://img.shields.io/github/stars/shakilcn/mockingbird.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/mockingbird”]
+|https://github.com/appcubedev/mockingbird[appcubedev/mockingbird]
+|image:https://img.shields.io/github/stars/appcubedev/mockingbird.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/appcubedev/mockingbird”]
+
+|Modded Ubuntu
+|Run Ubuntu GUI on your termux with much features
+|Linux, Ubuntu, Termux
+|https://github.com/modded-ubuntu/modded-ubuntu[modded-ubuntu/modded-ubuntu]
+|image:https://img.shields.io/github/stars/modded-ubuntu/modded-ubuntu.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/modded-ubuntu/modded-ubuntu”]
 
 |NextLMS
 |Open source learning platform
 |ReactJS, NextJS, MongoDB, Ant Design, TailwindCSS
-|https://github.com/shakilcn/NextLMS[shakilcn/NextLMS]
-|image:https://img.shields.io/github/stars/shakilcn/NextLMS.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/NextLMS”]
+|https://github.com/shakilcz/NextLMS[shakilcz/NextLMS]
+|image:https://img.shields.io/github/stars/shakilcz/NextLMS.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcz/NextLMS”]
 
 
 
@@ -122,10 +164,11 @@ List of Open Source projects and contributors of Bangladesh.
 |Project Name |Description |Technologies | Web presence | Star count
 
 
-|--
-|--
-|--
-|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+|Permit
+|A laravel package to handle user authorization and ACL
+|PHP, Laravel
+|https://github.com/nahid/permit[nahid/permit]
+|image:https://img.shields.io/github/stars/nahid/permit.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/nahid/permit”]
 
 |===
 
@@ -136,14 +179,14 @@ List of Open Source projects and contributors of Bangladesh.
 |Shaplachart
 |Javascript chart library for data visualization
 |D3.js, TypeScript, Rollup
-|https://github.com/shakilcn/shaplachart[shakilcn/shaplachart]
-|image:https://img.shields.io/github/stars/shakilcn/shaplachart.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/shaplachart”]
+|https://github.com/shakilcz/shaplachart[shakilcz/shaplachart]
+|image:https://img.shields.io/github/stars/shakilcz/shaplachart.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcz/shaplachart”]
 
 |Superbar
 |🚀 Command bar for the web (chrome extension)
 |React.js, Redux, Ant Design, Webpack
-|https://github.com/shakilcn/superbar[shakilcn/superbar]
-|image:https://img.shields.io/github/stars/shakilcn/superbar.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcn/superbar”]
+|https://github.com/shakilcz/superbar[shakilcz/superbar]
+|image:https://img.shields.io/github/stars/shakilcz/superbar.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/shakilcz/superbar”]
 
 |Slash
 |Discord bot for engaging community (discord bot)
@@ -156,7 +199,19 @@ List of Open Source projects and contributors of Bangladesh.
 | Another system information fetching tool written in C++ [CLI tool]
 |C++
 |https://github.com/mehedirm6244/sysfex[mehedirm6244/sysfex]
-||image:https://img.shields.io/github/stars/mehedirm6244/sysfex.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/mehedirm6244/sysfex”]
+|image:https://img.shields.io/github/stars/mehedirm6244/sysfex.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/mehedirm6244/sysfex”]
+
+|Talk
+|Talk is a real-time users messaging and chatting system for Laravel
+|PHP, Laravel, Blade
+|https://github.com/nahid/talk[nahid/talk]
+|image:https://img.shields.io/github/stars/nahid/talk.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/nahid/talk”]
+
+|Tech Companies in Bangladesh
+|List of tech companies to help developers to find job
+|Markdown
+|https://github.com/MBSTUPC/tech-companies-in-bangladesh[MBSTUPC/tech-companies-in-bangladesh]
+|image:https://img.shields.io/github/stars/MBSTUPC/tech-companies-in-bangladesh.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/MBSTUPC/tech-companies-in-bangladesh”]
 
 
 |===
@@ -166,10 +221,12 @@ List of Open Source projects and contributors of Bangladesh.
 |===
 |Project Name |Description |Technologies | Web presence | Star count
 
-|--
-|--
-|--
-|https://github.com/hackversedev/awesome-opensource-bangladesh[Website]
+|Yal
+|YAL is Yet Another scripting Language
+|Rust
+|https://github.com/mdgaziur/yal[mdgaziur/yal]
+|image:https://img.shields.io/github/stars/mdgaziur/yal.svg?style=social&label=Stars[GitHub stars, link=“https://github.com/mdgaziur/yal”]
+
 
 
 |===
